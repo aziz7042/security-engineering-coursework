@@ -1,0 +1,13 @@
+*.har
+*.pcap
+*.pcapng
+*.log
+*.env
+*.key
+*.pem
+*.pfx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+
