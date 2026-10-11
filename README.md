@@ -1,6 +1,6 @@
 # Security Engineering · Selected Work
 
-A small, self-contained portfolio sample distilled from university security-engineering coursework.
+Two self-contained examples from university security-engineering coursework.
 
 ## Included work
 
@@ -17,6 +17,6 @@ java AesGcmDemo
 
 The example generates an in-memory key for demonstration and does not contain credentials or production secrets.
 
-## Repository scope
+## What is included
 
-Raw exam notes, answer keys, copied worksheets, browsing captures, HAR files and third-party lab repositories are intentionally excluded. The retained material is rewritten as a standalone technical sample; no course grade is claimed.
+This repository contains only the case study and Java example above. Exam notes, answer keys, worksheets, browsing captures, HAR files and third-party labs are not included.
